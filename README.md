@@ -28,11 +28,6 @@ This project addresses the challenge of manually monitoring critical aquaponics 
 - Water quality classification (Clean, Cloudy, Dirty)
 - pH classification (Acidic, Neutral, Alkaline)
 
-### Data Analytics
-- Export sensor data for analysis
-- Dashboard visualization using Excel or Power BI
-- Historical monitoring and reporting
-
 ---
 
 ## Tech Stack
