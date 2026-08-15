@@ -43,8 +43,6 @@ This project addresses the challenge of manually monitoring critical aquaponics 
 | LDR Sensor | Light intensity detection |
 | LCD I2C | Real-time information display |
 | Relay Module | Controls heater and grow light |
-| Microsoft Excel | Data storage and analysis |
-| Power BI | Dashboard creation and visualization |
 | Git & GitHub | Version control and project management |
 
 ---
@@ -109,12 +107,6 @@ Aquaponics-Ecosystem/
 │   ├── prototype/
 │   └── datasheets/
 │
-├── dashboard/
-│   ├── data/
-│   ├── powerbi/
-│   ├── screenshots/
-│   └── reports/
-│
 ├── videos/
 │
 ├── images/
@@ -129,7 +121,6 @@ Aquaponics-Ecosystem/
 | docs | Project documentation and manuals |
 | firmware | Arduino source code and configuration |
 | hardware | Hardware specifications and wiring diagrams |
-| dashboard | Data analysis and visualization resources |
 | videos | Demonstration videos |
 | images | System diagrams and screenshots |
 
@@ -142,7 +133,6 @@ Aquaponics-Ecosystem/
 - Arduino IDE 2.x or later
 - USB Cable for Arduino UNO
 - Required hardware components
-- Microsoft Excel or Power BI (optional)
 
 ### Required Libraries
 
@@ -204,7 +194,7 @@ Users can view real-time information through:
 
 - LCD Display
 - Arduino Serial Monitor
-- Dashboard reports (Excel or Power BI)
+
 
 ---
 
@@ -220,12 +210,6 @@ hardware/prototype/Final_Prototype.jpg
 
 ```text
 hardware/wiring/Wiring_Diagram.png
-```
-
-### Dashboard Preview
-
-```text
-dashboard/screenshots/Dashboard_Overview.png
 ```
 
 ### System Demonstration
@@ -316,12 +300,8 @@ The project prioritizes reliable local monitoring before introducing cloud-based
 
 ---
 
-## Author
-
 **BS Information Technology Capstone Project**
 
 Developed as an educational and research-based aquaponics monitoring solution focused on environmental sensing, automation, and data-driven decision-making.
 
 ---
-
-⭐ If you find this project useful, consider giving it a star and exploring the source code to learn more about Arduino-based environmental monitoring systems.
